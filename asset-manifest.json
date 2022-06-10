@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/dos-app/static/css/main.5d98692c.css",
+    "main.js": "/dos-app/static/js/main.aa3ca768.js",
+    "static/media/logos.png": "/dos-app/static/media/logos.cd94c5a199c830dd0d60.png",
+    "static/media/subfot.png": "/dos-app/static/media/subfot.27fb2cb78e82b141435e.png",
+    "static/media/subfot1.png": "/dos-app/static/media/subfot1.ca4a8c634a2a290b5582.png",
+    "static/media/header.png": "/dos-app/static/media/header.301956cbb019a6e0853f.png",
+    "static/media/subpar.png": "/dos-app/static/media/subpar.d922647d9d1b1094c706.png",
+    "static/media/logo.png": "/dos-app/static/media/logo.a59fccd56f4656df8c85.png",
+    "index.html": "/dos-app/index.html",
+    "main.5d98692c.css.map": "/dos-app/static/css/main.5d98692c.css.map",
+    "main.aa3ca768.js.map": "/dos-app/static/js/main.aa3ca768.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d98692c.css",
+    "static/js/main.aa3ca768.js"
+  ]
+}
